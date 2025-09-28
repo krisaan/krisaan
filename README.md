@@ -4,7 +4,7 @@ Currently working on:
 - Financial Data Pipeline for a medical clinic
 
 Recently collaborated on:
-- [Scronk: Social Media Stock Investing Educational Game](https://github.com/Wondrfish/UMBC2025_Hackathon_Idea)
+- [Stonk: Social Media Stock Investing Educational Game](https://github.com/Wondrfish/UMBC2025_Hackathon_Idea)
 <!--
 **krisaan/krisaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
