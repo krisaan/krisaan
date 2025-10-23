@@ -3,9 +3,9 @@ Currently working on:
 - [Campus Navigator App](https://github.com/mjc4785/Software-Engineering)
 - Financial Data Pipeline for a medical clinic
 
+<!--
 Recently collaborated on:
 - [Stonk: Social Media Stock Investing Educational Game](https://github.com/Wondrfish/UMBC2025_Hackathon_Idea)
-<!--
 **krisaan/krisaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
