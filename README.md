@@ -1,16 +1,20 @@
-### Welcome! 👋
+# Hi, I’m Kristina 👋
 
-I'm Kristina, an aspiring software engineer based in the United States.
+Aspiring software engineer based in the United States.
 
-I build software to make others' lives easier, or at least, software useful to myself. 
+I build software to make people’s lives easier — or at the very least, to solve problems I care about.
 
-My main tech stack is Django/Javascript/HTML.
+## Tech Stack
+- Django
+- JavaScript
+- React Native
+- HTML/CSS
 
-Currently working on:
+## Currently Working On
 - [Campus Navigator App](https://github.com/mjc4785/Software-Engineering)
-- Financial Data Pipeline for a medical clinic
+- Financial Data Pipeline for a Medical Clinic  
 
-> "This is for everyone."
+> “This is for everyone.”
 >
 > — Tim Berners-Lee
-> 
+
