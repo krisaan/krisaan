@@ -1,21 +1,16 @@
 ### Welcome! 👋
+
+I'm Kristina, an aspiring software engineer based in the United States.
+
+I build software to make others' lives easier, or at least, software useful to myself. 
+
+My main tech stack is Django/Javascript/HTML.
+
 Currently working on:
 - [Campus Navigator App](https://github.com/mjc4785/Software-Engineering)
 - Financial Data Pipeline for a medical clinic
 
-<!--
-Recently collaborated on:
-- [Stonk: Social Media Stock Investing Educational Game](https://github.com/Wondrfish/UMBC2025_Hackathon_Idea)
-**krisaan/krisaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "This is for everyone."
+>
+> — Tim Berners-Lee
+> 
