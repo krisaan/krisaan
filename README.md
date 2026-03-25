@@ -4,12 +4,22 @@ Aspiring software engineer based in the United States.
 
 ## Tech Stack and Related Projects
 <details>
-<summary>Django (Python)</summary>
+<summary> Django (Python) </summary>
 https://github.com/mjc4785/Campus-Navigation-App
+</details>
+
+<details>
+<summary> React (Javascript/Typescript) </summary>
+https://github.com/Wondrfish/UMBC2025_Hackathon_Idea
+</details>
+
+<details>
+<summary> Flask (Python) </summary>
+https://github.com/Wondrfish/UMBC2025_Hackathon_Idea
 </details>
   
 <details>
-<summary>React Native (Javascript/Typescript)</summary>
+<summary> React Native (Javascript/Typescript) </summary>
 https://github.com/mjc4785/Campus-Navigation-App
 </details>
 
