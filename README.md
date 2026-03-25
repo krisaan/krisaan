@@ -2,7 +2,7 @@
 
 Aspiring software engineer based in the United States.
 
-## Tech Stack
+## Tech Stack and Related Projects
 <details>
 <summary>Django (Python)</summary>
 https://github.com/mjc4785/Campus-Navigation-App
