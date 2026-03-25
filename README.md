@@ -2,16 +2,24 @@
 
 Aspiring software engineer based in the United States.
 
-I build software to make people’s lives easier — or at the very least, to solve problems I care about.
-
 ## Tech Stack
-- Django
-- JavaScript
-- React Native
-- HTML/CSS
+<details>
+<summary>Django</summary>
+https://github.com/mjc4785/Campus-Navigation-App
+</details>
+
+<details>
+<summary>Javascript/Typescript</summary>
+https://github.com/mjc4785/Campus-Navigation-App
+</details>
+  
+<details>
+<summary>React Native</summary>
+https://github.com/mjc4785/Campus-Navigation-App
+</details>
+
 
 ## Currently Working On
-- [Campus Navigator App](https://github.com/mjc4785/Software-Engineering)
 - Financial Data Pipeline for a Medical Clinic  
 
 > “This is for everyone.”
