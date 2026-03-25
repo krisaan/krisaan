@@ -4,17 +4,12 @@ Aspiring software engineer based in the United States.
 
 ## Tech Stack
 <details>
-<summary>Django</summary>
-https://github.com/mjc4785/Campus-Navigation-App
-</details>
-
-<details>
-<summary>Javascript/Typescript</summary>
+<summary>Django (Python)</summary>
 https://github.com/mjc4785/Campus-Navigation-App
 </details>
   
 <details>
-<summary>React Native</summary>
+<summary>React Native (Javascript/Typescript)</summary>
 https://github.com/mjc4785/Campus-Navigation-App
 </details>
 
